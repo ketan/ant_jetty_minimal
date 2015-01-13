@@ -1,4 +1,4 @@
-Example code for embedding jetty server (code based on jetty 8).
+# Example code for embedding jetty server (code based on jetty 8).
 
 Compile with:
         ant
