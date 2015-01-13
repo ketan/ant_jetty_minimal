@@ -6,7 +6,8 @@ Compile with:
 Run with:
         ant run
 
-Point your browser to http://localhost:8080/file.html for static request, and to http://localhost:8080/time for dynamic request examples.
+Point your browser to http://localhost:8080/file.html foobar for stat
+ic request, and to http://localhost:8080/time for dynamic request examples.
 
 
 Foo
