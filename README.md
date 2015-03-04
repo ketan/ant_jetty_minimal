@@ -1,6 +1,4 @@
 [![Build Status](https://smoke.snap-ci.com/ketan/ant_jetty_minimal/branch/master/build_image)](https://smoke.snap-ci.com/ketan/ant_jetty_minimal/branch/master)
-
-
 [![Build Status](http://img.shields.io/travis/doge/wow.svg)](https://travis-ci.org/doge/wow)
 [![Dependency Status](http://img.shields.io/gemnasium/doge/wow.svg)](https://gemnasium.com/doge/wow)
 [![Coverage Status](http://img.shields.io/coveralls/doge/wow.svg)](https://coveralls.io/r/doge/wow)
